@@ -9,7 +9,7 @@ const TechHighlights = () => {
       title: 'Artificial Intelligence in Daily Life',
       description: 'AI-powered smart assistants, recommendation systems, and machine learning algorithms are revolutionizing how we interact with technology every day.',
       icon: <Brain className="w-8 h-8" />,
-      image: 'https://source.unsplash.com/600x400/?artificial,intelligence',
+      image: 'https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop',
       features: ['Smart Assistants', 'Predictive Analytics', 'Personalization', 'Automation']
     },
     {
@@ -17,7 +17,7 @@ const TechHighlights = () => {
       title: 'IoT Gadgets for Smart Homes',
       description: 'Connected devices that improve efficiency, security, and comfort in modern homes through seamless integration and intelligent automation.',
       icon: <Home className="w-8 h-8" />,
-      image: 'https://source.unsplash.com/600x400/?smart,home',
+      image: 'https://images.pexels.com/photos/6186810/pexels-photo-6186810.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop',
       features: ['Voice Control', 'Energy Efficiency', 'Security Systems', 'Remote Monitoring']
     },
     {
@@ -25,7 +25,7 @@ const TechHighlights = () => {
       title: 'Augmented & Virtual Reality',
       description: 'Immersive technologies transforming entertainment, education, and professional workflows with realistic digital experiences.',
       icon: <Eye className="w-8 h-8" />,
-      image: 'https://source.unsplash.com/600x400/?virtual,reality',
+      image: 'https://images.pexels.com/photos/4009402/pexels-photo-4009402.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop',
       features: ['Immersive Gaming', 'Virtual Training', 'AR Shopping', 'Remote Collaboration']
     },
     {
@@ -33,7 +33,7 @@ const TechHighlights = () => {
       title: 'Quantum Computing Revolution',
       description: 'Next-generation computing power solving complex problems in cryptography, drug discovery, and artificial intelligence.',
       icon: <Cpu className="w-8 h-8" />,
-      image: 'https://source.unsplash.com/600x400/?quantum,computing',
+      image: 'https://images.pexels.com/photos/159304/network-cable-ethernet-computer-159304.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop',
       features: ['Quantum Supremacy', 'Cryptography', 'Drug Discovery', 'AI Acceleration']
     },
     {
@@ -41,7 +41,7 @@ const TechHighlights = () => {
       title: '5G & Beyond Connectivity',
       description: 'Ultra-fast wireless networks enabling real-time communication, autonomous vehicles, and massive IoT deployments.',
       icon: <Wifi className="w-8 h-8" />,
-      image: 'https://source.unsplash.com/600x400/?5g,network',
+      image: 'https://images.pexels.com/photos/442150/pexels-photo-442150.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop',
       features: ['Ultra-Low Latency', 'Massive IoT', 'Edge Computing', 'Autonomous Systems']
     },
     {
@@ -49,7 +49,7 @@ const TechHighlights = () => {
       title: 'Cybersecurity & Privacy',
       description: 'Advanced security measures protecting digital assets and personal data in an increasingly connected world.',
       icon: <Shield className="w-8 h-8" />,
-      image: 'https://source.unsplash.com/600x400/?cybersecurity,privacy',
+      image: 'https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop',
       features: ['Zero Trust', 'Biometric Auth', 'Encryption', 'Privacy by Design']
     }
   ];
